@@ -1,0 +1,5 @@
+https://www.arduino.cc/reference/en/libraries/ethernetenc/
+
+
+
+https://1.bp.blogspot.com/-mG0x8f0BKTA/WmiYamp9XdI/AAAAAAAAg5Y/N_P7plcbtmU-15JKqURYqE_yjt98AUdxwCLcBGAs/s1600/Lolin32_pinout03.png
